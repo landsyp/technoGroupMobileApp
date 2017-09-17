@@ -1,0 +1,8 @@
+{
+  "name": "technogroupmobileapp",
+  "app_id": "4d8072a2",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
