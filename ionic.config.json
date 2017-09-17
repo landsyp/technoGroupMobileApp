@@ -3,4 +3,10 @@
   "app_id": "fad7926a",
   "type": "ionic-angular",
   "integrations": {}
+
+  "app_id": "4d8072a2",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
 }
